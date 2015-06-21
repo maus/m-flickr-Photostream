@@ -1,0 +1,142 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: [m~] flickr Photostream\n"
+"POT-Creation-Date: 2015-06-21 14:07+0100\n"
+"PO-Revision-Date: 2015-06-21 14:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-m-flickr-photostream-admin.php:26
+msgid "API Settings"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:27
+msgid "Username:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:28
+msgid "User ID:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:29
+msgid "flickr.com API URL:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:31
+msgid "Data Settings"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:32
+msgid "Async Display:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:34
+msgid "Photos"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:35
+msgid "Photoset ID:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:36
+msgid "How many photos:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:37
+msgid "And their sizes:"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:47
+msgid "Enter your account and API settings."
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:55
+msgid "Your flickr username"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:63
+msgid "If you don't know it, use <a href='http://idgettr.com/'>idGettr</a>"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:71
+msgid ""
+"You probably won't need to change this until flickr.com decides to change it"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:79
+msgid ""
+"Choose if the images should be fetched asynchronously. That will speed up "
+"your page"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:88
+msgid "Asynchronous"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:96
+msgid "Let's setup the photos."
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:104
+msgid "If you leave it out, photos will belong to all photosets"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:128
+msgid "All sizes (except square, which is exact) are maximum sizes"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:150
+#: admin/class-m-flickr-photostream-admin.php:168
+msgid "flickr Photostream Options"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:150
+#: public/class-m-flickr-photostream-widget.php:8
+msgid "flickr Photostream"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:162
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-m-flickr-photostream-admin.php:190
+msgid "Settings"
+msgstr ""
+
+#: public/class-m-flickr-photostream-widget.php:10
+msgid "Display flickr photostream"
+msgstr ""
+
+#: public/class-m-flickr-photostream-widget.php:70
+msgid "Title:"
+msgstr ""
+
+#: public/class-m-flickr-photostream-widget.php:71
+msgid "How many?"
+msgstr ""
+
+#: public/includes/class-m-flickr-photostream-template.php:60
+msgid "Tags:"
+msgstr ""
+
+#: public/includes/class-m-flickr-photostream-template.php:62
+#: public/includes/class-m-flickr-photostream-template.php:72
+msgid "Taken:"
+msgstr ""
